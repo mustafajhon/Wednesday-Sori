@@ -1,10 +1,14 @@
-import React, { Component } from "react";
+import React from "react";
+import "./home.css";
 function Home() {
   return (
-    <div className="container">
-      <h1>Hello World</h1>
-      <h1>Home Page</h1>
-    </div>
+    <>
+      <div className="container">
+        <h1>Home Page</h1>
+      </div>
+
+      <div className="links"></div>
+    </>
   );
 }
 
