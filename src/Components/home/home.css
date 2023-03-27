@@ -4,6 +4,11 @@ h1 {
   border-radius: 10px;
 }
 
-body {
+.container {
   background-color: bluevioletd;
+}
+
+.links {
+  display: flex;
+  background-color: aquamarine;
 }
