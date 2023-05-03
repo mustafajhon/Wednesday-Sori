@@ -1,8 +1,8 @@
 import "./App.css";
-import Home from "./Components/home/home";
+import Counters from "./Components/home/counters";
 
 function App() {
-  return <Home />;
+  return <Counters />;
 }
 
 export default App;

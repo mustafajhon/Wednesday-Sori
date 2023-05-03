@@ -1,14 +1,9 @@
-h1 {
-  text-align: center;
-  background-color: blueviolet;
-  border-radius: 10px;
-}
-
-.container {
-  background-color: bluevioletd;
-}
-
-.links {
+.home {
   display: flex;
-  background-color: aquamarine;
+  align-items: center;
+  justify-content: center;
+}
+.counter {
+  background-color: darkslategray;
+  border-radius: 22px;
 }

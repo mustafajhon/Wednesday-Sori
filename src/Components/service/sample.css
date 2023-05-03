@@ -1,0 +1,10 @@
+.sample {
+  display: flex;
+  padding: 14px;
+  align-items: center;
+  justify-content: center;
+}
+
+button {
+  margin: 5px;
+}
